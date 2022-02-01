@@ -1,0 +1,217 @@
+Price of crafted items
+======================
+
+Nutrition unit 2
+----------------
+
+
+5x Wilson cigarettes -> 1h 40m -> 1x 42nd Signature Blend English Tea + 1x Apollo Soyuz cigarettes
+
+2x Emergency Water Ration -> 1x 1h 6min -> 1x Silicone tube + 0.6 liter water bottle
+
+2x Iskra ration pack -> 47min 59sec -> 2x Army crackers + 1x Can of Beef stew (small) + 1x Can of squash spread
+
+1x Pack of sugar -> 1h 22min -> 2x Alyonka chocolate bar
+
+4x Aquamari water bottle with filter -> 4h 49min -> 4x 0.6 liter water bottle + 4x Gas mask air filter
+
+2x Premium Kvass "Norvinskiy Yadreniy" 0.6L bottle -> 1h 2min -> 4x Emelya rye croutons + 2x 0.6 liter water bottle
+
+7x Slickers chocolate bar -> 1h 11min -> 1x Alyonka chocolate bar + 1x Army crackers + 1x Pack of oat flakes
+
+4x Can of Max Energy drink -> 1h 47min -> 1x Can of Majaica coffee beans + TODO
+
+2x Can of beef stew (small) -> 1h 17min -> 1x can of squash + 1x Can of squash spread + 1x Can of beef stew (Large)
+
+3x Can of condensed milk -> 1h 21min -> 1x Pack of sugar + 1x Pack of milk
+
+
+Medstation lvl 3
+----------
+
+
+3x AI-2 medkit -> 21min 50sec -> 1x Pile of meds
+
+2x Calok-B hemostatic applicator -> 29min 46sec -> 2x Bottle of hydrogen peroxide + 2x Pile of meds
+
+1x Medical bloodset -> 27min 37sec -> 2x Disposible syringe + 1x Silicone tube
+
+1x Morphine injecotr -> 1h 11min -> 1x Disposible syringe + 1x Analgin painkillers + 1x Pile of meds
+
+1x Portable defibrilator -> 5h 12min -> 1x Portable Powerbank + 4x Capacitators + 3x Bundle of wires + 2x Magnet
+
+1x CMS surgical kit -> 48min 47sec -> 1x Car first aid kit + 1x Medical tools
+
+1x xTG-12 antidote injector -> 1h 9min -> 1x Adrenaline injector + 2x AI-2 medkit + 1x Pile of meds
+
+3x Pile of meds -> 47min 38sec -> 1x AI-2 medkit + 1x Aseptic bandage + 1x Augmentin antibiotic pills
+
+1x Salewa -> 38min 52sec -> 2x Esmarch tourniquet + 1x CALOK-B hemostatic applicator + 2x Aseptic bandage + 2x Analgin painkillers
+
+1x MULE stimulant injecotor -> 1h 30min -> 2x Pile of meds + 2x Can of Max Energy Energy drink + 1x Morphine painkiller + 1x Zagustin hemostatci drug injector
+
+2x IFAK individual first aid kit -> 49min 37sec -> 1x Esmarch tourniquet + 2x Army bandage + 2x Pile of meds
+
+5x SJ1 TGLabs combat stimulant injector -> 1h 22min -> 1x Morphine injector + 3x Propital regenerative stimulant injecotor + 2x Bottle of saline solution + 7x Pile of meds 
+
+Lavatory lvl 3
+--------------
+
+
+1x Pilgrim -> 2h 42min -> 1x Sewing kit + 2x Lolkek 3F Transfer tourist backpack + 1x Construction measuring tape + 1x Cordura polyamide fabric
+
+1x Grenade case -> 16h 32min -> 2x Metal spare parts + 5x Bolts + 5x Screw nuts + 1x Metal cutting scissors + 2x Metal fuel tank
+
+1x KEKTAPE duct tape -> 1h 19min -> 1x Clin window cleaner + 2x Insulating tape + 2x Duct tape
+
+1x Splav "Tarzan M22" chest rig -> 46min 19sec -> 1x Ripstop fabric + 1x Cordura polyamide fabric
+
+1x Lucky Scav Junk box -> 8h 32min -> 3x Metal spare parts + 3x KEKTAPE duct tape + 6x Bolts + 1x Metal cutting scirssor + 2x Magazine case
+
+5x Ox bleach -> 38min 12sec -> 1x Pack of sodium bicarbonate + 1x Alkaline cleaner for heat exchangers + 1x Soap
+
+1x LShZ light helmet -> 1h 22min -> 2x Aramid fiber fabric + 1x + Duct tape + 1x Tac-Kek FAST MT helmet (replica)
+
+1x Paracord -> 4h 16min -> 3x Bundle of wires -> 1x Bars A-2607 95x18 knife + 1x Cricket lighter + 5x Duffle bag
+
+1x FP-100 filter absorber -> 2h 35min -> 1x Metal spare parts + 1x Toolset + 2x Water filter + 2x Gas Mask air filter
+
+2x Corrugated hose -> 3h 20min -> 3x Insulating tape + 3x bundle of wires + 1x Silicone tube
+
+1x Fleece fabric -> 43min 0s -> 1x UX PRO beanie
+
+2x Schaman shampoo -> 34min 44sec -> 34min 44sec -> 1x 0.6liter water bottle + 1x Soap
+
+1x Cordura polyamide fabric -> 47min 58sec -> 47min 58sec -> 4x Tactical sling bag
+
+1x Velocity Systems MPPV Multi-Purpose Patrol Vest -> 35min 33sec -> 1x Sewing kit + 1x KEKTAPE duct tape + 2x Dynaforce Triton M43-A chest harness
+
+1x Water filter -> 9h 48min 1x Printer paper + 1x Metal cutting scissors + 4x Gas mask air filter
+
+1x BNTI Module-3M body armor -> 53min 45sec -> 2x Ripstop fabirc + 2x Aramid fiber fabric
+
+1x Clin window cleaner -> -> 40min 31sec -> 1x Schaman shampoo + 1x Bottle of Tarkovskaya vodka
+
+2x Aramid fiber fabric -> 33min 5sec -> 1x PACA soft Armor
+
+2x Toilet paper -> 25min 48sec -> 1x Printer paper
+
+1x 6Sh118 raid backpack -> 5h 14min -> 2x Sewing kit + 4x Ripstop fabric + 1x Paracord + 4x VKBO army bag
+
+1x Gas mask air filter -> 1min 59sec -> GP-7 gas mask
+
+1x Expeditionary fuel tank -> 1h 1min -> 10x Zibbo lighter + 10x Cricket lighter
+
+1x BlackRock chest rig -> 59min 33sec -> 1x Cordura polyamide fabric + 1x Ripstop fabric + 1x Splav "Tarzan M22" chest rig
+
+2x Scav backpack -> 54min 35sec -> 1x Flyee MBSS backpack + 1x 0.6 liter water bottle + 1x Fleece fabric
+
+6x Aseptic bandage -> 31min 25sec -> 1x Fleece fabric
+
+2x WD-40 (100ml) -> 2h 28min -> 1x Metal cutting scissors + 1x WD-40(400ml)
+
+10x Army bandage -> 16min 32sec -> 1x Bottle of Tarkovskaya vodka + 5x Aseptic bandage
+
+1x AK-74 5.45x39 6L31 60-round magazine -> 1h 22min -> 1x KEKTAPE duct tape + 4x AK-74 5.45x39 6L23 30-round magazine
+
+1x PACA soft Armor -> 1h 13min -> 2x Ripstop fabric + 2x Aramid fiber fabric
+
+2x Aluminum split -> 52min 56sec -> 1x MF-UNTAR body armor + 1x Metal cutting scirssor
+
+2x Ripstop fabric -> 36min 23sec -> 1x Scav Vest
+
+1x Magazine case -> 4h 50min -> 3x Screw nuts + 3x Bolts + 1x Metal cutting scissors + 2x Expeditionary fuel tank
+
+
+Workbench lvl 2
+---------------
+
+
+60x .45 ACP AP -> 5h 47min -> 90x 9x19mm AP 6.3 + 2x Gunpowder "Hawk"
+
+1x FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope -> 8h 52min -> 1x Portable Powerbank + 2x SAS drive + 1x Virtex programmable processor + 2x Iridium military thermal vision module + 3x NIXXOR lens
+
+2x Printer circuit board -> 32min 45sec -> 1x DVD drive + 1x Flat screwdriver
+
+140x 9x18mm PM RG028 gzh ->  1h 42min -> 1x Gunpowder "Kite"
+
+120x 12/70 SuperFormance HP slug -> 3h 51min -> 1x Gunpowder "Kite" + 1x Weapon parts + 1x Tech manual
+
+1x Weapon parts -> 51min 16sec -> 1x Simonov SKS 7.62x39 carabine
+
+1x Kalashnikov AK-74M 5.45x39 assault rifle -> 1h 22min -> 1x Weapon parts + 1x AK-74M polymer stock (6P34 Sb.15) + 1x AK-74 polymer handguard (6P20 Sb.9)
+
+100x .366 TKM AP-M -> 6h 56min -> 1x Gunpowder "Kite" + 100x 7.62x39mm PS gzh + 50x 9.39mm SP-6 gs
+
+2x Gunpowder "Hawk" -> 35min 33sec -> 1x Classic matches + 1x Gunpowder "Eagle" + 1x Gunpowder "Kite"
+
+1x Kalashnikov AK-74N 5.45x39 assault rifle -> 1h 21min -> 1x AK-74 wooden stock (6P20 Sb.5) + 1x AK-74 wooden handguard (6P20 Sb.6) + 1x Weapon parts
+
+320x 5.45x39mm PP gs -> 5h 29min -> 2x Bolts -> 5.45x39mm PS gs
+
+2x Power cord -> 34min 44sec -> 1x Insulating tape + 2x Bundle of wires + 2x T-Shaped plug
+
+200x 9x18mm PM PBM gzh -> 3h 51min -> 200x 9x18mm PM Pst gzh + Gunpowder "Kite"
+
+120x 12/70 8.5mm Magnum buckshot -> 1h 30min -> 1x Gunpowder "Kite" + 1x Classic matches
+
+2x NIXXOR lens -> 2h 30min -> 1x Plexiglass piece + 1x WI=FI camera
+
+1x Gunpowder "Eagle" -> 1h 37min -> 1x RDG-2B smoke grenade + 2x M67 Hand Granade
+
+2x Printed circuit board -> 47min 58sec -> 1x screwdriver + 1x Gas analyzer
+
+1x Kalashnikov AKM 7.62x39 assault rifle -> 1h 24min -> 1x AKM 7.62x39 muzzle brake-compensator (6P1 0-14) + 1x Leatherman Multitool + 1x Molot VPO-136 "Vepr-KM" 7.62x39 carabine
+
+2x Weapon parts -> 1h 17min -> Molot VPO-209 .366 TKM carabine
+
+150x 9x19mm AP 6.3 -> 7h 51min -> 400x 9x19mm Pst gzh + 2x Gunpowder "Hawk"
+
+3x Gunpowder "Hawk" -> 1h 51min -> 2x Gunpowder "Kite" + 1x OFZ 30x160mm shell
+
+1x T-shaped plug -> 56min 14sec -> 1x Power cord + 1x Pack of nails
+
+1x Gunpowder "Kite" -> 1h 28min -> 70x 5.45x39mm PS gs
+
+2x Rechargeable battery -> 1h 12min -> 1x Portable Powerbank + 1x Flat screwdriver
+
+1x Gas analyzer -> 16h 54min -> 1x Pliers Elite + 4x Bundle of wires + 2x Magnet + 1x Gelger-Muller counter + 4x AA battery
+
+1x Electric motor -> 1h 19min -> 1x screwdriver + 1x Flat screwdriver + 2x Electric drill
+
+8x VOG-25 Khattabka improvised hand grenade -> 1h 39min -> 5x 40mm VOG-25 + 5x UZRGM grenade fuze
+
+120x 12/70 flechette -> 2h 4min -> 1x Gunpowder "Kite" + 1x Metal fuel tank
+
+1x GreenBat lithium battery -> 4h 57min -> 3x Portable Powerbank + 2x Rechargeable battery + 1x USD Adapter + 1x Round pliers
+
+1x Broken GPhone smartphoen -> 1h 39min -> 1x Flat screwdriver (Long) + 1x Broken LCD + 1x Broken GPhone x smartphone
+
+1x Bulbex cable cutter -> 6h 53min -> 1x WD-40 (100ml) + 1x Toolset + 1x Plier Elite + 2x Nippers
+
+200x 5.56x45mm M856A1 -> 12h 22min -> 2x Gunpowder "Hawk" + 200x 5.56x45mm M855
+
+300x 9x39mm SP-6 gs -> 9h 9min -> 2x Xenomorph sealing foam + 2x Gunpowder "Eagle" + 120x 7.62x39mm HP
+
+1x Military circuit board -> 2h 15min -> 2x RAM + 5x Capacitators + 2x PC CPU + 6x Printed circuit board
+
+4x Broken LCD -> 21min 50sec -> 1x screwdriver + 4x Working LCD
+
+5x "Zarya" stun grenade -> 1h 17min -> 1x RDG-2B smoke grenade + 1x Gunpowder "Kite" + 5x UZRGM grenade fuze
+
+80x 7.62x54mm R SNB gzh -> 9h 57min -> 1x Gunpowder "Hawk"
+
+8x Bundle of wires 1h 57min -> 2x Power cord
+
+1x Spark plug -> 1h 55min -> 1x Pliers + 1x Surv Survivor lighter + 1x SurvL Survivor lighter + 2x Bolts + 2x Screw nuts
+
+8x Capacitators -> 2h 3min -> 1x screwdriver + 1x Power supply unit
+
+1x Geiger-Muller counter -> 1h 30min -> 1x AA battery + 1x Capacitators + 1x Bundle of wires + 1x Gas analyzer
+
+1x Magnet -> 43min 0sec -> 1x Damaged hard drive
+
+5x Car battery -> 2h 45min -> 1x Leatherman Multitool + 1x 6-STEN-140-M military battery
+
+
+
