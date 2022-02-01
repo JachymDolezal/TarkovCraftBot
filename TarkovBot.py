@@ -1,4 +1,4 @@
-from TarkovCraftBot.config_bot import TOKEN
+from config_bot import TOKEN
 from discord.ext import commands
 import pandas as pd
 pd.options.mode.chained_assignment = None

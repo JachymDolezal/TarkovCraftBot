@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config_bot.py
+Data/TarkovData.csv
+Data/TarkovData.csv
+Data/TarkovData.csv
