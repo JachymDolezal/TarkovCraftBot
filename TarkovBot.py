@@ -51,7 +51,7 @@ async def give_stats(ctx, arg):
             # await ctx.send(f"**{arg} - Sorted by profit per hour**")
             # await ctx.send(new_df.to_string(index=False))
             embed = discord.Embed(
-                title=f"Crafts in {arg} sorted by profit per hour",
+                title=f"Crafts in {arg} sorted by profit per hour in roubles",
             )
             embed.add_field(name="Name", value=new_df.name.to_string(index=False), inline=True)
             embed.add_field(name="Profit_per_hour", value=new_df.profit_per_hour.to_string(index=False),inline=True)
@@ -64,8 +64,19 @@ async def give_stats(ctx, arg):
         await ctx.send(f"**Top crafts by profit per hour**")
         # outputs top 10 columns sorted by profit_per_hour
         df.drop(['station', 'output_price', 'input_price', 'duration'], axis=1, inplace=True)
+        df = df.sort_values(by=['profit_per_hour'], ascending=False)
         df = df.iloc[:10, :]
-        await ctx.send(df.to_string(index=False))
+        embed = discord.Embed(
+            title=f"Top 10 crafts with positive profit per hour in roubles",
+        )
+        embed.add_field(name="Name", value=df.name.to_string(index=False), inline=True)
+        embed.add_field(name="Profit_per_hour", value=df.profit_per_hour.to_string(index=False), inline=True)
+        embed.add_field(name="Profit", value=df.profit.to_string(index=False), inline=True)
+        # embed.add_field(name="Input", value=new_df.input_price.to_string(index=False), inline=True)
+        # embed.add_field(name="Output", value=new_df.output_price.to_string(index=False), inline=True)
+
+        await ctx.send(embed=embed)
+        # await ctx.send(df.to_string(index=False))
     else:
         await ctx.send("wrong command argument, use !TarkovStats help to see available arguments")
 
