@@ -1,134 +1,134 @@
-station,name,output_price,duration,input_price,profit,profit_per_hour
-Booze generator level 1,Moonshine,259999,3.056,233000,26999,8834.751
-Intelligence Center level 2,Flash drive,192000,34.222,115888,76112,2224.066
-Intelligence Center level 2,Virtex,83999,37.611,325000,-241001,-6407.726
-Intelligence Center level 2,SG-C10,130000,38.889,227111,-97111,-2497.133
-Intelligence Center level 2,RFIDR,99000,53.333,46000,53000,993.756
-Intelligence Center level 2,VPX,220220,62.5,130220,90000,1440.0
-Intelligence Center level 2,#11SR,850000,65.556,806110,43890,669.504
-Intelligence Center level 3,Intelligence,385000,31.667,206000,179000,5652.572
-Intelligence Center level 3,GPU,520000,96.944,537010,-17010,-175.462
-Intelligence Center level 3,Violet,3600000,132.222,2245000,1355000,10247.916
-Lavatory level 1,Filter,9420,0.033,14000,-4580,-138787.879
-Lavatory level 1,Bandage,18700,0.278,28190,-9490,-34136.691
-Lavatory level 1,TP,10798,0.433,14000,-3202,-7394.919
-Lavatory level 1,Bandage,11400,0.528,8888,2512,4757.576
-Lavatory level 1,Aramid,31998,0.556,29420,2578,4636.691
-Lavatory level 1,Cordura,21995,0.597,90000,-68005,-113911.223
-Lavatory level 1,Ripstop,39774,0.611,73200,-33426,-54707.038
-Lavatory level 1,Cordura,21995,0.806,15960,6035,7487.593
-Lavatory level 1,Alu splint,29980,0.889,62000,-32020,-36017.998
-Lavatory level 1,ScavBP,32000,0.917,34888,-2888,-3149.4
-Lavatory level 1,PACA,29420,1.228,87771,-58351,-47517.101
-Lavatory level 1,LShZ,40000,1.389,53997,-13997,-10077.034
-Lavatory level 2,Shampoo,31998,0.583,25000,6998,12003.431
-Lavatory level 2,Bleach,38885,0.642,39300,-415,-646.417
-Lavatory level 2,Clin,5777,0.681,34689,-28912,-42455.213
-Lavatory level 2,Fleece,8888,0.722,120000,-111112,-153894.737
-Lavatory level 2,Tarzan,14444,0.778,41882,-27438,-35267.352
-Lavatory level 2,Module-3M,18999,0.903,71772,-52773,-58441.86
-Lavatory level 2,BlackRock,43000,1.0,56326,-13326,-13326.0
-Lavatory level 2,Fuel,115999,1.033,144000,-28001,-27106.486
-Lavatory level 2,KEK,16000,1.333,45329,-29329,-22002.251
-Lavatory level 2,6L31,21999,1.389,87108,-65109,-46874.73
-Lavatory level 2,WD-40,9998,2.5,31000,-21002,-8400.8
-Lavatory level 2,Pilgrim,0,2.722,66950,-66950,-24595.885
-Lavatory level 2,Hose,35554,3.361,68329,-32775,-9751.562
-Lavatory level 2,Paracord,23999,4.306,61399,-37400,-8685.555
-Lavatory level 2,Magazines,258000,4.875,385331,-127331,-26119.179
-Lavatory level 2,Junk,1070000,8.611,817035,252965,29376.96
-Lavatory level 2,WFilter,29000,9.889,66680,-37680,-3810.294
-Lavatory level 2,Grenades,310000,16.667,577801,-267801,-16067.739
-Lavatory level 3,MPPV,38200,2.167,80123,-41923,-19346.101
-Lavatory level 3,FP-100,115000,2.611,108963,6037,2312.141
-Lavatory level 3,6Sh118,0,5.278,195345,-195345,-37011.178
-Medstation level 1,AI-2,11331,0.367,9999,1332,3629.428
-Medstation level 1,CALOK-B,23800,0.5,45998,-22198,-44396.0
-Medstation level 1,Salewa,21899,0.653,32696,-10797,-16534.456
-Medstation level 1,CMS,19000,0.819,18666,334,407.814
-Medstation level 2,Bloodset,6500,0.464,63998,-57498,-123918.103
-Medstation level 2,Meds,29997,0.8,26175,3822,4777.5
-Medstation level 2,IFAK,25000,0.833,25637,-637,-764.706
-Medstation level 2,xTG-12,38777,1.167,42774,-3997,-3425.021
-Medstation level 2,Morphine,11300,1.208,42598,-31298,-25908.94
-Medstation level 2,SJ1,175000,1.386,160955,14045,10133.478
-Medstation level 2,M.U.L.E.,93999,1.528,91298,2701,1767.67
-Medstation level 2,Defibrillator,144444,5.25,119332,25112,4783.238
-Medstation level 3,Vaseline,31110,0.917,74997,-43887,-47859.324
-Medstation level 3,AFAK,18000,1.0,32869,-14869,-14869.0
-Medstation level 3,Grizzly,62000,1.25,66984,-4984,-3987.2
-Medstation level 3,Surv12,59600,1.278,83893,-24293,-19008.607
-Medstation level 3,SJ6,90000,1.417,69998,20002,14115.737
-Medstation level 3,Propital,115878,1.917,108997,6881,3589.463
-Medstation level 3,LEDX,1089000,38.889,1001186,87814,2258.068
-Nutrition unit level 1,Iskra,32000,0.806,55551,-23551,-29219.603
-Nutrition unit level 1,Kvass,21200,1.056,68000,-46800,-44318.182
-Nutrition unit level 1,EWR,20084,1.111,25998,-5914,-5323.132
-Nutrition unit level 1,Tushonka,18000,1.308,41454,-23454,-17931.193
-Nutrition unit level 1,MaxEnergy,44000,1.806,42111,1889,1045.958
-Nutrition unit level 2,Slickers,66500,1.194,58664,7836,6562.814
-Nutrition unit level 2,Cond. milk,47100,1.361,59420,-12320,-9052.168
-Nutrition unit level 2,Sugar,47000,1.389,55332,-8332,-5998.56
-Nutrition unit level 2,Wilston,29500,1.694,26000,3500,2066.116
-Nutrition unit level 2,Aquamari,79996,4.861,93680,-13684,-2815.059
-Nutrition unit level 3,Vodka,186900,1.597,329999,-143099,-89604.884
-Nutrition unit level 3,Whiskey,119997,1.778,114046,5951,3347.019
-Nutrition unit level 3,Water,112000,1.847,150998,-38998,-21114.239
-Nutrition unit level 3,Hot Rod,196000,8.028,224000,-28000,-3487.793
-Water collector level 3,Superwater,139000,5.417,19140.0,119860.0,22126.638
-Workbench level 1,BrokenLCD,59200,0.367,157999,-98799,-269207.084
-Workbench level 1,PCB,33998,0.55,20248,13750,25000.0
-Workbench level 1,PCord,41000,0.583,43777,-2777,-4763.293
-Workbench level 1,Hawk,62000,0.597,51000,11000,18425.461
-Workbench level 1,Magnet,15666,0.722,9000,6666,9232.687
-Workbench level 1,PCB,33998,0.8,22999,10999,13748.75
-Workbench level 1,WParts,11000,0.861,16000,-5000,-5807.201
-Workbench level 1,T-Plug,8000,0.944,33722,-25722,-27247.881
-Workbench level 1,WParts,22000,1.306,27958,-5958,-4562.021
-Workbench level 1,AK-74N,22999,1.361,51000,-28001,-20573.843
-Workbench level 1,AKM,38500,1.417,51887,-13387,-9447.424
-Workbench level 1,Kite,13000,1.486,6160,6840,4602.961
-Workbench level 1,Magnum,29880,1.528,22500,7380,4829.843
-Workbench level 1,GPhone,13666,1.667,93688,-80022,-48003.599
-Workbench level 1,VOG-25,151104,1.667,98885,52219,31325.135
-Workbench level 1,RG028,18200,1.722,13000,5200,3019.744
-Workbench level 1,Wires,72000,1.972,41000,31000,15720.081
-Workbench level 1,Caps,72000,2.069,39999,32001,15466.892
-Workbench level 1,GasAn,13000,17.028,117443,-104443,-6133.603
-Workbench level 2,RBattery,24000,1.222,35250,-11250,-9206.219
-Workbench level 2,Zarya,34995,1.297,66884,-31889,-24586.739
-Workbench level 2,EMotor,39999,1.333,78249,-38250,-28694.674
-Workbench level 2,AK-74M,34399,1.389,19975,14424,10384.449
-Workbench level 2,GMcount,11000,1.528,38000,-27000,-17670.157
-Workbench level 2,Eagle,28500,1.631,31665,-3165,-1940.527
-Workbench level 2,Hawk,93000,1.875,82000,11000,5866.667
-Workbench level 2,SPlug,14000,1.944,97642,-83642,-43025.72
-Workbench level 2,Flechette,22200,2.083,168000,-145800,-69995.199
-Workbench level 2,MCB,131000,2.278,182994,-51994,-22824.407
-Workbench level 2,NIXXOR,74000,2.528,65444,8556,3384.494
-Workbench level 2,Car batt.,240000,2.778,296888,-56888,-20478.042
-Workbench level 2,PBM,92800,3.883,66000,26800,6901.88
-Workbench level 2,SFormance,0,3.889,44000,-44000,-11313.962
-Workbench level 2,GreenBat,210000,5.0,115599,94401,18880.2
-Workbench level 2,PP,48000,5.528,85822,-37822,-6841.896
-Workbench level 2,AP,0,5.833,62000,-62000,-10629.179
-Workbench level 2,Bulbex,66222,6.944,45108,21114,3040.611
-Workbench level 2,AP-M,85000,7.0,22500,62500,8928.571
-Workbench level 2,AP 6.3,0,7.917,62000,-62000,-7831.249
-Workbench level 2,FLIR RS-32,0,8.944,393997,-393997,-44051.543
-Workbench level 2,SP-6,0,9.222,146880,-146880,-15927.131
-Workbench level 2,SNB,0,10.028,31000,-31000,-3091.344
-Workbench level 2,M856A1,0,12.472,112000,-112000,-8980.115
-Workbench level 3,Zvezda,0,4.583,110599,-110599,-24132.446
-Workbench level 3,AP-20,0,4.689,67000,-67000,-14288.761
-Workbench level 3,Warmage,26400,4.722,109000,-82600,-17492.588
-Workbench level 3,RGD-5,79998,5.083,112309,-32311,-6356.679
-Workbench level 3,RIP,108000,5.139,67000,41000,7978.206
-Workbench level 3,BP,0,9.222,1616000,-1616000,-175233.138
-Workbench level 3,SPP,0,10.5,194888,-194888,-18560.762
-Workbench level 3,OFZ,112000,10.833,210478,-98478,-9090.557
-Workbench level 3,PBP,0,11.972,227388,-227388,-18993.318
-Workbench level 3,M995,0,15.994,177500,-177500,-11097.912
-Workbench level 3,M61,0,16.644,227985,-227985,-13697.729
-Workbench level 3,BP,0,16.667,83000,-83000,-4979.9
-Workbench level 3,PPBS,0,17.019,145000,-145000,-8519.89
+station,name,output_price_item,duration,input_price_item,profit,profit_per_hour
+Booze generator level 1,Moonshine,296666,3.056,242554,54112,17706.806
+Intelligence Center level 2,Flash drive,237000,34.222,141000,96000,2805.213
+Intelligence Center level 2,Virtex,80000,37.611,192615,-112615,-2994.204
+Intelligence Center level 2,SG-C10,140000,38.889,189420,-49420,-1270.796
+Intelligence Center level 2,RFIDR,140000,53.333,47776,92224,1729.211
+Intelligence Center level 2,VPX,244000,62.5,149997,94003,1504.048
+Intelligence Center level 2,#11SR,683000,65.556,789000,-106000,-1616.938
+Intelligence Center level 3,Intelligence,389998,31.667,281000,108998,3442.006
+Intelligence Center level 3,GPU,500000,96.944,502210,-2210,-22.797
+Intelligence Center level 3,Violet,4780000,132.222,2665549,2114451,15991.673
+Lavatory level 1,Filter,16000,0.033,28800,-12800,-387878.788
+Lavatory level 1,Bandage,20500,0.278,29745,-9245,-33255.396
+Lavatory level 1,TP,10840,0.433,44000,-33160,-76581.986
+Lavatory level 1,Bandage,11694,0.528,6990,4704,8909.091
+Lavatory level 1,Aramid,34840,0.556,29999,4841,8706.835
+Lavatory level 1,Cordura,18500,0.597,16665,1835,3073.702
+Lavatory level 1,Ripstop,40000,0.611,56997,-16997,-27818.331
+Lavatory level 1,Cordura,18500,0.806,34000,-15500,-19230.769
+Lavatory level 1,Alu splint,29776,0.889,63999,-34223,-38496.063
+Lavatory level 1,ScavBP,30000,0.917,31655,-1655,-1804.798
+Lavatory level 1,PACA,29999,1.228,92260,-62261,-50701.14
+Lavatory level 1,LShZ,37777,1.389,59260,-21483,-15466.523
+Lavatory level 2,Shampoo,33332,0.583,23777,9555,16389.365
+Lavatory level 2,Bleach,47500,0.642,36551,10949,17054.517
+Lavatory level 2,Clin,8500,0.681,36666,-28166,-41359.765
+Lavatory level 2,Fleece,6990,0.722,40000,-33010,-45720.222
+Lavatory level 2,Tarzan,19999,0.778,38500,-18501,-23780.206
+Lavatory level 2,Module-3M,23500,0.903,74840,-51340,-56854.928
+Lavatory level 2,BlackRock,35999,1.0,58499,-22500,-22500.0
+Lavatory level 2,Fuel,105000,1.033,201330,-96330,-93252.662
+Lavatory level 2,KEK,27000,1.333,45500,-18500,-13878.47
+Lavatory level 2,6L31,14999,1.389,35600,-20601,-14831.533
+Lavatory level 2,WD-40,14000,2.5,39000,-25000,-10000.0
+Lavatory level 2,Pilgrim,0,2.722,64388,-64388,-23654.666
+Lavatory level 2,Hose,22000,3.361,62499,-40499,-12049.688
+Lavatory level 2,Paracord,19420,4.306,146171,-126751,-29435.903
+Lavatory level 2,Magazines,255555,4.875,414000,-158445,-32501.538
+Lavatory level 2,Junk,990000,8.611,874107,115893,13458.716
+Lavatory level 2,WFilter,39111,9.889,132000,-92889,-9393.164
+Lavatory level 2,Grenades,321295,16.667,651998,-330703,-19841.783
+Lavatory level 3,MPPV,36000,2.167,109000,-73000,-33687.125
+Lavatory level 3,FP-100,155000,2.611,138321,16679,6387.974
+Lavatory level 3,6Sh118,0,5.278,199420,-199420,-37783.251
+Medstation level 1,AI-2,12000,0.367,10555,1445,3937.33
+Medstation level 1,CALOK-B,19598,0.5,43110,-23512,-47024.0
+Medstation level 1,Salewa,17500,0.653,32297,-14797,-22660.031
+Medstation level 1,CMS,16900,0.819,14999,1901,2321.123
+Medstation level 2,Bloodset,9000,0.464,70997,-61997,-133614.224
+Medstation level 2,Meds,31665,0.8,18282,13383,16728.75
+Medstation level 2,IFAK,25996,0.833,28010,-2014,-2417.767
+Medstation level 2,xTG-12,39222,1.167,44400,-5178,-4437.018
+Medstation level 2,Morphine,11500,1.208,46054,-34554,-28604.305
+Medstation level 2,SJ1,185000,1.386,172725,12275,8856.421
+Medstation level 2,M.U.L.E.,85999,1.528,93207,-7208,-4717.277
+Medstation level 2,Defibrillator,152000,5.25,127912,24088,4588.19
+Medstation level 3,Vaseline,53500,0.917,76887,-23387,-25503.817
+Medstation level 3,AFAK,15999,1.0,36245,-20246,-20246.0
+Medstation level 3,Grizzly,61998,1.25,73506,-11508,-9206.4
+Medstation level 3,Surv12,60000,1.278,84128,-24128,-18879.499
+Medstation level 3,SJ6,94990,1.417,78530,16460,11616.09
+Medstation level 3,Propital,108500,1.917,128110,-19610,-10229.525
+Medstation level 3,LEDX,948888,38.889,1110036,-161148,-4143.794
+Nutrition unit level 1,Iskra,22222,0.806,56882,-34660,-43002.481
+Nutrition unit level 1,Kvass,19998,1.056,73554,-53556,-50715.909
+Nutrition unit level 1,EWR,19776,1.111,25776,-6000,-5400.54
+Nutrition unit level 1,Tushonka,17776,1.308,36700,-18924,-14467.89
+Nutrition unit level 1,MaxEnergy,49600,1.806,49777,-177,-98.007
+Nutrition unit level 2,Slickers,65793,1.194,58496,7297,6111.39
+Nutrition unit level 2,Cond. milk,46500,1.361,76777,-30277,-22246.143
+Nutrition unit level 2,Sugar,67777,1.389,57998,9779,7040.317
+Nutrition unit level 2,Wilston,29995,1.694,29000,995,587.367
+Nutrition unit level 2,Aquamari,60000,4.861,115108,-55108,-11336.762
+Nutrition unit level 3,Vodka,200000,1.597,360551,-160551,-100532.874
+Nutrition unit level 3,Whiskey,119997,1.778,113553,6444,3624.297
+Nutrition unit level 3,Water,102216,1.847,119999,-17783,-9628.045
+Nutrition unit level 3,Hot Rod,192000,8.028,217777,-25777,-3210.887
+Water collector level 3,Superwater,107000,5.417,25813.260000000002,81186.73999999999,14987.399
+Workbench level 1,BrokenLCD,67992,0.367,250000,-182008,-495934.605
+Workbench level 1,PCB,21998,0.55,19999,1999,3634.545
+Workbench level 1,PCord,26666,0.583,40500,-13834,-23728.988
+Workbench level 1,Hawk,67392,0.597,71000,-3608,-6043.551
+Workbench level 1,Magnet,16000,0.722,10000,6000,8310.249
+Workbench level 1,PCB,21998,0.8,27777,-5779,-7223.75
+Workbench level 1,WParts,10999,0.861,21000,-10001,-11615.563
+Workbench level 1,T-Plug,7000,0.944,21753,-14753,-15628.178
+Workbench level 1,WParts,21998,1.306,32000,-10002,-7658.499
+Workbench level 1,AK-74N,33999,1.361,30999,3000,2204.262
+Workbench level 1,AKM,34000,1.417,54933,-20933,-14772.759
+Workbench level 1,Kite,18000,1.486,5390,12610,8485.868
+Workbench level 1,Magnum,44280,1.528,30000,14280,9345.55
+Workbench level 1,GPhone,16000,1.667,113998,-97998,-58787.043
+Workbench level 1,VOG-25,172000,1.667,108110,63890,38326.335
+Workbench level 1,RG028,17080,1.722,18000,-920,-534.262
+Workbench level 1,Wires,80000,1.972,26666,53334,27045.639
+Workbench level 1,Caps,64984,2.069,54000,10984,5308.845
+Workbench level 1,GasAn,17777,17.028,112998,-95221,-5592.025
+Workbench level 2,RBattery,25998,1.222,45420,-19422,-15893.617
+Workbench level 2,Zarya,32100,1.297,71666,-39566,-30505.783
+Workbench level 2,EMotor,50000,1.333,87110,-37110,-27839.46
+Workbench level 2,AK-74M,37000,1.389,21997,15003,10801.296
+Workbench level 2,GMcount,10999,1.528,40900,-29901,-19568.717
+Workbench level 2,Eagle,41000,1.631,30664,10336,6337.216
+Workbench level 2,Hawk,101088,1.875,111000,-9912,-5286.4
+Workbench level 2,SPlug,9990,1.944,121400,-111410,-57309.671
+Workbench level 2,Flechette,30000,2.083,172000,-142000,-68170.907
+Workbench level 2,MCB,67000,2.278,144607,-77607,-34068.042
+Workbench level 2,NIXXOR,95998,2.528,78888,17110,6768.196
+Workbench level 2,Car batt.,237100,2.778,438800,-201700,-72606.192
+Workbench level 2,PBM,76000,3.883,46000,30000,7725.985
+Workbench level 2,SFormance,0,3.889,46999,-46999,-12085.112
+Workbench level 2,GreenBat,215000,5.0,141258,73742,14748.4
+Workbench level 2,PP,42560,5.528,91400,-48840,-8835.022
+Workbench level 2,AP,0,7.433,67392,-67392,-9066.595
+Workbench level 2,Bulbex,66169,6.944,45099,21070,3034.274
+Workbench level 2,AP-M,90000,7.0,46000,44000,6285.714
+Workbench level 2,AP 6.3,0,7.917,67392,-67392,-8512.315
+Workbench level 2,FLIR RS-32,0,8.944,450095,-450095,-50323.681
+Workbench level 2,SP-6,0,9.222,139316,-139316,-15106.918
+Workbench level 2,SNB,0,10.028,33696,-33696,-3360.191
+Workbench level 2,M856A1,0,12.472,119392,-119392,-9572.803
+Workbench level 3,Zvezda,0,4.583,132420,-132420,-28893.738
+Workbench level 3,AP-20,0,4.689,73696,-73696,-15716.784
+Workbench level 3,Warmage,30000,4.722,154000,-124000,-26260.059
+Workbench level 3,RGD-5,67200,5.083,116200,-49000,-9639.976
+Workbench level 3,RIP,99540,5.139,73696,25844,5028.994
+Workbench level 3,BP,0,9.222,1565390,-1565390,-169745.175
+Workbench level 3,SPP,0,10.5,189650,-189650,-18061.905
+Workbench level 3,OFZ,150000,10.833,234392,-84392,-7790.27
+Workbench level 3,PBP,0,11.972,266680,-266680,-22275.309
+Workbench level 3,M995,0,15.994,229000,-229000,-14317.869
+Workbench level 3,M61,0,16.644,232173,-232173,-13949.351
+Workbench level 3,BP,0,16.667,118000,-118000,-7079.858
+Workbench level 3,PPBS,0,17.019,185392,-185392,-10893.237

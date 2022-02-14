@@ -7,7 +7,7 @@ import bspump.trigger
 import pandas as pd
 import bspump.file
 
-new_query = """
+query = """
 query {
   crafts {
     source
@@ -37,11 +37,11 @@ class IOHTTPSource(bspump.TriggerSource):
 
     async def cycle(self):
         async with aiohttp.ClientSession() as session:
-            async with session.post('https://tarkov-tools.com/graphql', json={'query': new_query}) as response:
+            async with session.post('https://tarkov-tools.com/graphql', json={'query': query}) as response:
                 if response.status == 200:
                     event = await response.json()
                 else:
-                    raise Exception("Query failed to run by returning code of {}. {}".format(response.status, new_query))
+                    raise Exception("Query failed to run by returning code of {}. {}".format(response.status, query))
                 await self.process(event)
 
 
@@ -50,33 +50,39 @@ class FilterByStation(bspump.Processor):
         super().__init__(app, pipeline, id=None, config=None)
 
     def process(self, context, event):
-        my_columns = ['station', 'name', 'output_price', 'duration', 'input_price', 'profit', 'profit_per_hour']
+        my_columns = ['station', 'name', 'output_price_item', 'duration', 'input_price_item', 'profit', 'profit_per_hour']
         df = pd.DataFrame(columns=my_columns)
-        duration = 0
         for item in event["data"]["crafts"]:
-            duration = round((item["duration"])/60/60,ndigits=3)
-            reward = item["rewardItems"]
-            name_output = reward[0]["item"]["shortName"]
-            input_price = 0
-            quantity = reward[0]["quantity"]
-            output_item = reward[0]["item"]["lastLowPrice"]
-            if output_item is None:
-                output_item = 0
-            output_price = quantity * int(output_item)
+            duration = round((item["duration"])/60/60, ndigits=3)
+            reward = item["rewardItems"][0]
+            name_output = reward["item"]["shortName"]
+            quantity = reward["quantity"]
+            output_item_price = reward["item"]["lastLowPrice"]
+            if output_item_price is None:  # checks for NULL values
+                output_item_price = 0
+            output_price_item = quantity * int(output_item_price)
             station_name = item["source"]
             profit = 0
             profit_p_hour = 0
+            input_price_item = 0
             for item2 in range(len(item["requiredItems"])):
-                quantity_i = item["requiredItems"][item2]["quantity"]
-                aitem = item["requiredItems"][item2]["item"]["lastLowPrice"]
-                if aitem is None:
-                    aitem = 0
-                price_of_items = aitem * quantity_i
-                input_price = input_price + price_of_items
-                profit = output_price - input_price
+                required_item = item["requiredItems"][item2]
+                quantity_i = required_item["quantity"]
+                input_item = required_item["item"]["lastLowPrice"]
+                if input_item is None:
+                    input_item = 0
+                price_of_input_item = input_item * quantity_i
+                input_price_item = input_price_item + price_of_input_item
+                profit = output_price_item - input_price_item
                 profit_p_hour = round(profit / duration, ndigits=3)
             df = df.append(
-                pd.Series([station_name, name_output, output_price, duration, input_price, profit, profit_p_hour],
+                pd.Series([station_name,
+                           name_output,
+                           output_price_item,
+                           duration,
+                           input_price_item,
+                           profit,
+                           profit_p_hour],
                           index=my_columns), ignore_index=True)
             event = df
         return event
@@ -97,11 +103,10 @@ class SamplePipeline(bspump.Pipeline):
         super().__init__(app, pipeline_id)
 
         self.build(
-            IOHTTPSource(app,self).on(bspump.trigger.PeriodicTrigger(app, 20)),
-            FilterByStation(app,self),
-            bspump.common.PPrintProcessor(app,self),
-            DataFrameToCSV(app,self),
-            bspump.common.PPrintSink(app, self),
+            IOHTTPSource(app, self).on(bspump.trigger.PeriodicTrigger(app, 5)),
+            FilterByStation(app, self),
+            bspump.common.PPrintProcessor(app, self),
+            DataFrameToCSV(app, self),
             bspump.common.NullSink(app, self),
         )
 
@@ -109,7 +114,6 @@ class SamplePipeline(bspump.Pipeline):
 if __name__ == '__main__':
     app = bspump.BSPumpApplication()
     svc = app.get_service("bspump.PumpService")
-    # Construct and register Pipeline
     pl = SamplePipeline(app, 'SamplePipeline')
     svc.add_pipeline(pl)
 
