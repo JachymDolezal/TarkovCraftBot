@@ -31,8 +31,11 @@ MANIFEST
 *.manifest
 *.spec
 
-# Installer logs
+#files
 config_bot.py
+Data/TarkovData.csv
+
+# Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
 
