@@ -33,8 +33,7 @@ MANIFEST
 
 #files
 config_bot.py
-Data/TarkovData.csv
-TarkovData.csv
+Data\TarkovData.csv
 
 # Installer logs
 pip-log.txt
