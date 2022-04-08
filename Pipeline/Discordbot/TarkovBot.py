@@ -24,7 +24,7 @@ async def clear(ctx, amount=5):
 @bot.command(name='crafts', help=f"args:{','.join(station_keyword)}")
 async def give_stats(ctx, arg):
     # sorts the data by profit per hour index
-    df = pd.read_csv("Data/TarkovData.csv")
+    df = pd.read_csv("./Data/TarkovData.csv")
     df = df[df['profit_per_hour'] > 0]
     if arg == 'help':
         await ctx.send(f"use this command with following argument: {','.join(station_keyword)}")

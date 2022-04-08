@@ -93,7 +93,7 @@ class DataFrameToCSV(bspump.Processor):
         super().__init__(app, pipeline, id=None, config=None)
 
     def process(self, context, event):
-        event.to_csv('./Data/TarkovData.csv', index=False)
+        event.to_csv('./Discordbot/Data/TarkovData.csv', index=False)
         return event
 
 

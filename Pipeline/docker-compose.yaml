@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  tarkov-pump:
+    image: jachymd/tarkovpump:latest
+    volumes:
+      - ./Discordbot/Data:/opt/tarkovpump/Data
+
+  discord-bot:
+    image: jachymd/tarkov-discord-bot:latest
+    volumes:
+      - ./Discordbot/Data:/opt/tarkovpump/Discordbot/Data
