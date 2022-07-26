@@ -31,6 +31,10 @@ MANIFEST
 *.manifest
 *.spec
 
+#files
+Pipeline/Discordbot/config_bot.py
+Data\TarkovData.csv
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -112,3 +116,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Pipeline/Discordbot/config_bot.py
+Pipeline/Discordbot/Data/TarkovData.csv
+Pipeline/Discordbot/Data/TarkovData.csv
+Pipeline/Discordbot/Data/TarkovData.csv
+Pipeline/Discordbot/Data/TarkovData.csv
+Pipeline/Discordbot/Data/TarkovData.csv
+*.csv
+*.csv
